@@ -25,5 +25,5 @@ A Python-based command-line application to track income, expenses, budgets, and 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YourUsername/finance_app.git
+git clone https://github.com/Tanuja22hp1a4432/FINANCE_APP.git
 cd finance_app
